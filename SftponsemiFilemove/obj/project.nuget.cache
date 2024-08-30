@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0UDfAZqpLPszxgIUC7tFC4unx16KJTuh3mo0Fj3r5flITOU2n3KRD4mmHkbSOmLU8qI9hXSlkekC4B6TPBQPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\onsemiASNSftpto158\\FromSftpToonsemiIntransit\\SftponsemiFilemove\\SftponsemiFilemove.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jc_it\\.nuget\\packages\\ssh.net\\2024.0.0\\ssh.net.2024.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
