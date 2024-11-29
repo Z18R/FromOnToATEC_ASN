@@ -8,8 +8,8 @@ namespace SFTPconnect
     {
         static void Main()
         {
-            string localDirectory = @"C:\xml\intransit\"; // Destination directory where files will be downloaded
-            string sftpDirectory = "/fromON/ASN/Test/";
+            string localDirectory = @"D:\intransit\"; // Destination directory where files will be downloaded
+            string sftpDirectory = "/fromON/ASN/Prod/";
 
             try
             {

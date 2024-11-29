@@ -56,11 +56,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programs\\onsemiASNSftpto158\\FromSftpToonsemiIntransit\\SftponsemiFilemove\\SftponsemiFilemove.csproj",
+      "projectUniqueName": "C:\\Users\\jc_it\\Desktop\\onsemi intrasit\\updatedsftpToLocal\\FromOnToATEC_ASN\\SftponsemiFilemove\\SftponsemiFilemove.csproj",
       "projectName": "SftponsemiFilemove",
-      "projectPath": "D:\\Programs\\onsemiASNSftpto158\\FromSftpToonsemiIntransit\\SftponsemiFilemove\\SftponsemiFilemove.csproj",
+      "projectPath": "C:\\Users\\jc_it\\Desktop\\onsemi intrasit\\updatedsftpToLocal\\FromOnToATEC_ASN\\SftponsemiFilemove\\SftponsemiFilemove.csproj",
       "packagesPath": "C:\\Users\\jc_it\\.nuget\\packages\\",
-      "outputPath": "D:\\Programs\\onsemiASNSftpto158\\FromSftpToonsemiIntransit\\SftponsemiFilemove\\obj\\",
+      "outputPath": "C:\\Users\\jc_it\\Desktop\\onsemi intrasit\\updatedsftpToLocal\\FromOnToATEC_ASN\\SftponsemiFilemove\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

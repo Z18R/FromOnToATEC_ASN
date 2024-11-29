@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SftponsemiFilemove")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf86fee0f08d37a3521ff14c5d3aa165ed5e2c25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bd10110378c92e611f7730dbb35648329705a3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SftponsemiFilemove")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SftponsemiFilemove")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

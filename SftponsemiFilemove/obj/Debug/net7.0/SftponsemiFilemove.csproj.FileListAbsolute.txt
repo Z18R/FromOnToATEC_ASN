@@ -50,3 +50,21 @@ D:\Programs\onsemiASNSftpto158\FromSftpToonsemiIntransit\SftponsemiFilemove\obj\
 D:\Programs\onsemiASNSftpto158\FromSftpToonsemiIntransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.pdb
 D:\Programs\onsemiASNSftpto158\FromSftpToonsemiIntransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.genruntimeconfig.cache
 D:\Programs\onsemiASNSftpto158\FromSftpToonsemiIntransit\SftponsemiFilemove\obj\Debug\net7.0\ref\SftponsemiFilemove.dll
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.exe
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.deps.json
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.runtimeconfig.json
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.dll
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.pdb
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\bin\Debug\net7.0\Renci.SshNet.dll
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.csproj.AssemblyReference.cache
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.AssemblyInfoInputs.cache
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.AssemblyInfo.cs
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.csproj.CoreCompileInputs.cache
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.sourcelink.json
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\Sftponse.018AA246.Up2Date
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.dll
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\refint\SftponsemiFilemove.dll
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.pdb
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.genruntimeconfig.cache
+C:\Users\jc_it\Desktop\onsemi intrasit\updatedsftpToLocal\FromOnToATEC_ASN\SftponsemiFilemove\obj\Debug\net7.0\ref\SftponsemiFilemove.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0UDfAZqpLPszxgIUC7tFC4unx16KJTuh3mo0Fj3r5flITOU2n3KRD4mmHkbSOmLU8qI9hXSlkekC4B6TPBQPQ==",
+  "dgSpecHash": "NAiBe97HPwH6hUs4S9TYHGlQzrQRCLbtymhFgs1u6+PWiM1902QT8n4ERu61Gipguu3Gu/3KVeNSpBZt7n25JA==",
   "success": true,
-  "projectFilePath": "D:\\Programs\\onsemiASNSftpto158\\FromSftpToonsemiIntransit\\SftponsemiFilemove\\SftponsemiFilemove.csproj",
+  "projectFilePath": "C:\\Users\\jc_it\\Desktop\\onsemi intrasit\\updatedsftpToLocal\\FromOnToATEC_ASN\\SftponsemiFilemove\\SftponsemiFilemove.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jc_it\\.nuget\\packages\\ssh.net\\2024.0.0\\ssh.net.2024.0.0.nupkg.sha512"
   ],
